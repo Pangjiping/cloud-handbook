@@ -11,6 +11,8 @@ $ git commit -m "init commit"
 $ git push -u origin master # 推送到远端仓库master分支
 ```
 
+<br>
+
 ## **使用本地代码库直接构建远端仓库**
 
 ```bash
@@ -24,6 +26,8 @@ $ git push -u origin master
 
 * `git clone`时，git不会对比本地和服务器的文件，也就不会有冲突
 * 建议确定完全覆盖本地的时候用clone，不确定会不会有冲突时用`git pull`，将远端仓库代码down下来
+
+<br>
 
 ## **常用命令**
 
@@ -44,6 +48,8 @@ $ git pull                  # 默认从master分支pull
 $ git push                  # 默认push到master分支
 ```
 
+<br>
+
 ## **版本回退**
 
 ```bash
@@ -51,6 +57,8 @@ $ git reset --hard HEAD^     # 回退到上一个commit
 $ git reflog                 # 查看历史版本信息
 $ git reset --hard commit_id # 回退到指定commit_id
 ```
+
+<br>
 
 ## **分支管理**
 
@@ -63,6 +71,8 @@ $ git merge           # 用于合并指定分支到当前分支
 $ git branch -d dev   # 删除dev分支
 ```
 
+<br>
+
 ## **冲突解决**
 
 一般而言，冲突解决的思路就是找出冲突内容，优先保留所有的冲突被容，之后再根据具体的代码逻辑来把过时的逻辑删除掉。如果是大型项目管理的话，建议在和其他分支遇到冲突时，找到冲突分支的commiter，让他来做冲突解决。
@@ -70,3 +80,5 @@ $ git branch -d dev   # 删除dev分支
 ```bash
 $ git status # 查看冲突内容
 ```
+
+<br>
