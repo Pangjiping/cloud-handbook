@@ -1,6 +1,6 @@
 # **golang flag库的基本用法**
 
-## **flag库的基本用法**
+## **1. flag库的基本用法**
 
 下面是一个golang flag库的命令行demo程序
 
@@ -83,7 +83,7 @@ Usage of /var/folders/s6/300jn_t108gbkxlxtcvb7yy00000gn/T/go-build1935325460/b00
 
 <br>
 
-## **colorize flag**
+## **2. colorize flag**
 
 ```golang
 type Color string
@@ -122,7 +122,7 @@ Hello, DigitalOcean!
 
 <br>
 
-## **读取文件**
+## **3. 读取文件**
 
 ```golang
 func main() {
@@ -170,7 +170,7 @@ import (
 
 <br>
 
-## **sub command**
+## **4. sub command**
 
 ```golang
 func NewGreetCommand() *GreetCommand {
