@@ -70,6 +70,8 @@ $ gitlab-ctl start
 $ lsof -i:80 # 查看80端口是否开启服务
 ```
 
+<br>
+
 ## **Gitlab的使用**
 
 在浏览器中输入http://192.168.1.172，然后change password，并使用root用户登录即可
