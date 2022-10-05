@@ -1,19 +1,16 @@
 # **Git简介**
 
 ## **Git、Github、Gitlab区别**
----
 
 Git是一个开源的分布式版本控制系统，用于敏捷高效地处理任何项目。Git是Linus Torvalds为了帮助管理Linux内核开发而开发的一个开源的版本控制软件。
 
 Github是在线的基于Git的代码托管服务。Github是2008年由Ruby on Rails编写而成，Github同时提供付费账户和免费账户。这两种账户都可以创建公开的代码仓库，只有付费账户可以创建私有的代码仓库（免费账户创建的私有仓库不允许协作）。Gitlab解决了这个问题，可以在上面创建免费的私人repo
-
 
 ![img](https://www.ajfriesen.com/content/images/2022/04/gitconfig.png)
 
 <br>
 
 ## **Git和SVN的区别**
----
 
 Git不仅仅是一个版本控制系统，它也是一个内容管理系统，工作管理系统等。
 
@@ -29,7 +26,6 @@ Git不仅仅是一个版本控制系统，它也是一个内容管理系统，�
 <br>
 
 ## **部署Git服务**
----
 
 准备两个服务器：git-server和git-client。虽然git没有客户端和服务器的概念，但是一般来讲都需要有一个线上的git仓库来保存项目代码，可以把这台机器看作git-server。
 
@@ -94,20 +90,65 @@ $ git push origin master
 
 <br>
 
-## **Git的工作流程**
----
+## **Git客户端**
 
-一般的工作流程如下：
-* 克隆Git资源作为工作目录
-* 在克隆的资源上添加或修改文件
-* 如果其他人修改了，你可以更新资源
-* 在提交前查看修改
-* 提交修改
-* 在修改完成后，如果发现错误，可以撤回提交并再次修改并提交
+### **Git安装**
 
-![img](https://www.runoob.com/wp-content/uploads/2015/02/git-process.png)
+```bash
+$ yum -y install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
+$ yum -y install git git-all git-core
+$ git --version
+```
 
-<br>
+### **Git配置**
 
-## **Reference**
-* https://www.runoob.com/git/git-workflow.html
+Git提供了一个叫做git config的工具，专门用来配置或者读取相应的工作环境变量。
+
+这些环境变量，决定了Git在各个环节的具体的工作方式和行为。这些变量可以存放在以下三个不同的地方：
+* `/etc/gitconfig`文件: 系统中对所有用户都普遍适用的配置。若使用`git config`时使用`--system`选项，读写的就是这个文件。
+* `~/.gitconfig`文件: 用户目录下的配置文件只适用于该用户。若使用`git config`时使用`--global`选项，读写的就是这个文件。
+* 当前项目的Git目录中的配置文件，也就是工作目录中的`.git/config`文件: 这里的配置仅仅针对当前项目有效，每一个级别的配置都会覆盖上层的相同配置，所以`.git/config`里面的配置会覆盖掉`/etc/gitconfig`中的同名变量。
+
+#### **用户信息**
+
+配置个人的用户名和电子邮件地址:
+
+```bash
+$ git config --global user.name "test"
+$ git config --global user.email "test@example.com"
+```
+
+如果使用了`--global`选项，那么更改的配置文件就是位于用户主目录下面的那个，以后所有的项目都会默认使用这里配置的用户信息。
+
+如果要在某个特定的项目中使用其他名字或者邮箱，只需要去掉`--global`选项重新配置即可，新的设定保存在当前项目的`.git/config`文件中。
+
+#### **文本编辑工具**
+
+Git默认使用vi或者vim编辑器，一般而言不会修改这个配置。如果你有其他的偏好，比如使用Emacs，可以重新配置
+
+```bash
+$ git config --global core.editor emacs
+```
+
+#### **差异分析工具**
+
+还有一个比较常用的是，在解决合并冲突时使用哪种差异分析工具，比如要改用vimdiff的话：
+
+```bash
+$ git config --global merge.tool vimdiff
+```
+
+Git可以理解kdiff3、meld、xxdiff、emerge、vimdiff、gvimdiff、ecmerge和opendiff等合并工具分的输出信息
+
+#### **查看配置信息**
+
+要检查已有的配置信息，可以使用`git config --list`命令
+
+```bash
+$ git config --list
+http.postbuffer=2M
+user.name=test
+user.email=test@example.com
+```
+
+有时候会看到重复的变量名，那就说明它们来自不同的配置文件，不过git实际采用的是最后一个。这些配置我们可以在`/etc/gitconfig`和`~/.gitconfig`文件中看到。
