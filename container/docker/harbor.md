@@ -97,7 +97,6 @@ http:
 #   enabled: true</code></pre>
 ```
 
-<p>&nbsp;</p>
 <p>修改完之后就可以安装了</p>
 <pre class="language-bash"><code>./install.sh</code></pre>
 <p>&nbsp;</p>

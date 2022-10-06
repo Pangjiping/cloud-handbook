@@ -24,6 +24,8 @@
 | [golang 分布式id生成器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/snowflake.md) | 2022.10.6 | 2022.10.6 |
 | [golang race检查](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/race.md) | 2022.10.6 | 2022.10.6 |
 | [golang defer close](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/standard-library/defer.md) | 2022.10.6 | 2022.10.6 |
+| [golang select多路复用](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/standard-library/select.md) | 2022.10.6 | 2022.10.6 |
+| [golang ceph客户端操作](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/ceph.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（一）：beego安装和介绍](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/install.md) | 2022.10.5 | 2022.10.6 |
 | [golang beego后端开发框架（二）：配置、路由和控制器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/router.md) | 2022.10.6 | 2022.10.6 | 
 | [golang beego后端开发框架（三）：参数绑定和过滤器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/bind.md) | 2022.10.6 | 2022.10.6 | 
