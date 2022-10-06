@@ -22,6 +22,8 @@
 | [限流算法的golang实现](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/limiter.md) | 2022.10.6 | 2022.10.6 |
 | [gRPC拦截器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/grpc_interceptor.md) | 2022.10.6 | 2022.10.6 |
 | [golang 分布式id生成器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/snowflake.md) | 2022.10.6 | 2022.10.6 |
+| [golang race检查](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/race.md) | 2022.10.6 | 2022.10.6 |
+| [golang defer close](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/standard-library/defer.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（一）：beego安装和介绍](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/install.md) | 2022.10.5 | 2022.10.6 |
 | [golang beego后端开发框架（二）：配置、路由和控制器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/router.md) | 2022.10.6 | 2022.10.6 | 
 | [golang beego后端开发框架（三）：参数绑定和过滤器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/bind.md) | 2022.10.6 | 2022.10.6 | 
@@ -38,10 +40,19 @@
 | title | createAt | updateAt
 | :---- | :---- | :---- |
 | [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/interview.md) | 2022.10.5 | 2022.10.5 |
+| [kubernetes资料汇总](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/resources.md) | 2022.10.6 | 2022.10.6 |
 | [kubectl](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/kubectl.md) | 2022.10.5 | 2022.10.5 |
 | [minikube](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/minikube.md) | 2022.10.5 | 2022.10.5 |
 | [terraform](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/terraform.md) | 2022.10.5 | 2022.10.5 |
 | [goreman管理本地etcd集群](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/etcd/goreman.md) | 2022.10.6 | 2022.10.6 |
+| [Kubernetes学习记录（一）：k8s的架构和基本概念](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/concept.md) | 2022.10.6 | 2022.10.6 |
+| [Kubernetes学习记录（二）：使用kubeadm快速部署一个单master集群](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/kubeadm.md) | 2022.10.6 | 2022.10.6 |
+| [Kuberbetes学习记录（三）：kubectl和YAML](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/kubectl.md) | 2022.10.6 | 2022.10.6 |
+| [Kubernetes学习记录（四）：深入理解Pod](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/pod.md) | 2022.10.6 | 2022.10.6 |
+| [Kubernetes学习记录（五）：深入理解controller](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/controller.md) | 2022.10.6 | 2022.10.6 |
+| [Kubernetes学习记录（六）：深入理解service和Ingress](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/service.md) | 2022.10.6 | 2022.10.6 |
+| [Kubernetes学习记录（七）：Secret和Configmap](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/configmap.md) | 2022.10.6 | 2022.10.6 |
+| [Kubernetes学习记录（八）：深入理解StatefulSet](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/statefulset.md) | 2022.10.6 | 2022.10.6 |
 
 <br>
 
