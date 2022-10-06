@@ -15,6 +15,7 @@
 | Hashicorp Raft实现和API分析 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/hashicorp_raft.md | 2022.10.5 | 2022.10.5 |
 ｜ golang设计模式 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/patterns.md | 2022.10.5 | 2022.10.6 |
 | rabbitmq-client | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/rabbitmq.md | 2022.10.6 | 2022.10.6 |
+| runtime.Caller()方法 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/standard-library/runtime_caller.md | 2022.10.6 | 2022.10.6 |
 
 <br>
 
