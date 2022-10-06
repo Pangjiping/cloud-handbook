@@ -44,6 +44,14 @@
 
 <br>
 
+### **prometheus**
+
+| title | URL | createAt | updateAt
+| :---- | :---- | :---- | :---- |
+| prometheus监控平台的部署与监控 | https://github.com/Pangjiping/cloud-handbook/blob/main/prometheus/deploy.md | 2022.10.6 | 2022.10.6 |
+
+<br>
+
 ### **git**
 
 | title | URL | createAt | updateAt
