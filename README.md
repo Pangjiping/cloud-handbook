@@ -32,6 +32,7 @@
 | [golang beego后端开发框架（六）：数据验证和错误处理](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/validation.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（七）：orm](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/orm.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（八）：CRUD与高级查询](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/crud.md) | 2022.10.6 | 2022.10.6 |
+| [golang gin后端开发框架（五）：日志中间件和自定义response](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gin/middleware.md) | 2022.10.6 | 2022.10.6 |
 
 <br>
 
@@ -69,6 +70,7 @@
 | title | createAt | updateAt
 | :---- | :---- | :---- |
 | [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/interview.md) | 2022.10.5 | 2022.10.5 |
+| [搭建一个Harbor镜像仓库](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/harbor.md) | 2022.10.6 | 2022.10.6 |
 
 <br>
 
