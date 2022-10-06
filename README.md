@@ -32,6 +32,7 @@
 | [kubectl](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/kubectl.md) | 2022.10.5 | 2022.10.5 |
 | [minikube](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/minikube.md) | 2022.10.5 | 2022.10.5 |
 | [terraform](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/terraform.md) | 2022.10.5 | 2022.10.5 |
+| [goreman管理本地etcd集群](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/etcd/goreman.md) | 2022.10.6 | 2022.10.6 |
 
 <br>
 
