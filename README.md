@@ -21,6 +21,13 @@
 | [golang自定义json序列化规则](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/json.md) | 2022.10.6 | 2022.10.6 |
 | [限流算法的golang实现](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/limiter.md) | 2022.10.6 | 2022.10.6 |
 | [gRPC拦截器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/grpc_interceptor.md) | 2022.10.6 | 2022.10.6 |
+| [golang 分布式id生成器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/snowflake.md) | 2022.10.6 | 2022.10.6 |
+| [golang beego后端开发框架（一）：beego安装和介绍](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/install.md) | 2022.10.5 | 2022.10.6 |
+| [golang beego后端开发框架（二）：配置、路由和控制器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/router.md) | 2022.10.6 | 2022.10.6 | 
+| [golang beego后端开发框架（三）：参数绑定和过滤器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/bind.md) | 2022.10.6 | 2022.10.6 | 
+| [golang beego后端开发框架（四）：session控制](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/session.md) | 2022.10.6 | 2022.10.6 |
+| [golang beego后端开发框架（五）：格式输出与URL构建](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/url.md) | 2022.10.6 | 2022.10.6 |
+| [golang beego后端开发框架（六）：数据验证和错误处理](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/validation.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（七）：orm](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/orm.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（八）：CRUD与高级查询](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/crud.md) | 2022.10.6 | 2022.10.6 |
 
