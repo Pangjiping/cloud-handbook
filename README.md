@@ -21,6 +21,8 @@
 | [golang自定义json序列化规则](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/json.md) | 2022.10.6 | 2022.10.6 |
 | [限流算法的golang实现](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/limiter.md) | 2022.10.6 | 2022.10.6 |
 | [gRPC拦截器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/grpc_interceptor.md) | 2022.10.6 | 2022.10.6 |
+| [golang beego后端开发框架（七）：orm](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/orm.md) | 2022.10.6 | 2022.10.6 |
+| [golang beego后端开发框架（八）：CRUD与高级查询](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/crud.md) | 2022.10.6 | 2022.10.6 |
 
 <br>
 
