@@ -72,7 +72,9 @@
 <p>注意prepare脚本需要harbor.yml文件，上面那个harbor.yml.tmpl需要重命名或者复制一份为.yml格式</p>
 <p>再安装之前需要修改一下ymal文件，主要是修改hostname为自己的ip地址即可</p>
 <p>如果不需要https，记得把https的配置注释掉</p>
-<pre class="language-bash"><code># The IP address or hostname to access admin UI and registry service.
+
+```bash
+# The IP address or hostname to access admin UI and registry service.
 # DO NOT use localhost or 127.0.0.1, because Harbor needs to be accessed by external clients.
 hostname: &lt;your ip&gt;
 
@@ -93,6 +95,8 @@ http:
 # internal_tls:
 #   # set enabled to true means internal tls is enabled
 #   enabled: true</code></pre>
+```
+
 <p>&nbsp;</p>
 <p>修改完之后就可以安装了</p>
 <pre class="language-bash"><code>./install.sh</code></pre>
