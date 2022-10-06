@@ -18,7 +18,7 @@
 | runtime.Caller()方法 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/standard-library/runtime_caller.md | 2022.10.6 | 2022.10.6 |
 | 一致性哈希算法 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/hash.md | 2022.10.6 | todo |
 | golang读取文件总结 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/standard-library/file.md | 2022.10.6 | todo |
-| golang自定义json序列化规则 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/json.md | 2022.10.6 | todo |
+| golang自定义json序列化规则 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/json.md | 2022.10.6 | 2022.10.6 |
 | 限流算法的golang实现 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/limiter.md | 2022.10.6 | todo |
 ｜ gRPC拦截器 | https://github.com/Pangjiping/cloud-handbook/blob/main/golang/grpc_interceptor.md | 2022.10.6 | todo |
 
