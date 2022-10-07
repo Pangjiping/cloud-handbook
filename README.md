@@ -118,6 +118,7 @@
 | title | createAt | updateAt
 | :---- | :---- | :---- |
 | [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/redis/interview.md) | 2022.10.5 | 2022.10.5 |
+| [redis持久化策略](https://github.com/Pangjiping/cloud-handbook/blob/main/redis/rdb_and_aof.md) | 2022.10.7 | 2022.10.7 |
 
 <br>
 
