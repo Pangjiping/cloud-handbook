@@ -29,6 +29,8 @@
 | [golang 栈扩容和栈转移原理](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/stack.md) | 2022.10.6 | 2022.10.6 |
 | [golang切片底层原理](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/slice.md) | 2022.10.7 | 2022.10.7 |
 | [golang channel底层实现](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/channel.md) | 2022.10.7 | 2022.10.7 |
+| [golang GMP调度模型](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gmp.md) | 2022.10.7 | 2022.10.7 |
+| [sqlc使用说明](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/sqlc.md) | 2022.10.7 | 2022.10.7 |
 | [golang beego后端开发框架（一）：beego安装和介绍](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/install.md) | 2022.10.5 | 2022.10.6 |
 | [golang beego后端开发框架（二）：配置、路由和控制器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/router.md) | 2022.10.6 | 2022.10.6 | 
 | [golang beego后端开发框架（三）：参数绑定和过滤器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/bind.md) | 2022.10.6 | 2022.10.6 | 
@@ -146,6 +148,7 @@
 | :---- | :---- | :---- |
 | [计算机网络面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/cs_interview.md) | 2022.10.5 | 2022.10.5 |
 | [操作系统面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/os_interview.md) | 2022.10.5 | 2022.10.5 |
+| [raft协议详解](https://github.com/Pangjiping/cloud-handbook/blob/main/others/raft2.md) | 2022.10.7 | 2022.10.7 |
 | [raft协议数据结构和RPC设计](https://github.com/Pangjiping/cloud-handbook/blob/main/others/raft.md) | 2022.10.6 | 2022.10.6 |
 | [httprouter实现原理](https://github.com/Pangjiping/cloud-handbook/blob/main/others/httprouter.md) | 2022.10.7 | 2022.10.7 |
 | [CAP理论](https://github.com/Pangjiping/cloud-handbook/blob/main/others/cap.md) | 2022.10.7 | 2022.10.7 |
