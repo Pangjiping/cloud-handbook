@@ -37,7 +37,7 @@
 | [golang beego后端开发框架（六）：数据验证和错误处理](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/validation.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（七）：orm](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/orm.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（八）：CRUD与高级查询](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/crud.md) | 2022.10.6 | 2022.10.6 |
-| []() | 2022.10.6 | 2022.10.6 |
+| [golang gin后端开发框架（一）：处理http请求](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gin/http.md) | 2022.10.6 | 2022.10.7 |
 | [golang gin后端开发框架（二）：解析request与构建response](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gin/bind.md) | 2022.10.6 | 2022.10.6 |
 | [golang gin后端开发框架（三）：路由组和中间件](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gin/router.md) | 2022.10.6 | 2022.10.6 |
 | [golang gin后端开发框架（四）：JWT和PASETO校验中间件](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gin/token.md) | 2022.10.6 | 2022.10.6 |
