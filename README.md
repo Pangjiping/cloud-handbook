@@ -26,6 +26,9 @@
 | [golang defer close](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/standard-library/defer.md) | 2022.10.6 | 2022.10.6 |
 | [golang select多路复用](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/standard-library/select.md) | 2022.10.6 | 2022.10.6 |
 | [golang ceph客户端操作](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/ceph.md) | 2022.10.6 | 2022.10.6 |
+| [golang 栈扩容和栈转移原理](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/stack.md) | 2022.10.6 | 2022.10.6 |
+| [golang切片底层原理](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/slice.md) | 2022.10.7 | 2022.10.7 |
+| [golang channel底层实现](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/channel.md) | 2022.10.7 | 2022.10.7 |
 | [golang beego后端开发框架（一）：beego安装和介绍](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/install.md) | 2022.10.5 | 2022.10.6 |
 | [golang beego后端开发框架（二）：配置、路由和控制器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/router.md) | 2022.10.6 | 2022.10.6 | 
 | [golang beego后端开发框架（三）：参数绑定和过滤器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/bind.md) | 2022.10.6 | 2022.10.6 | 
@@ -34,6 +37,10 @@
 | [golang beego后端开发框架（六）：数据验证和错误处理](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/validation.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（七）：orm](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/orm.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（八）：CRUD与高级查询](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/crud.md) | 2022.10.6 | 2022.10.6 |
+| []() | 2022.10.6 | 2022.10.6 |
+| [golang gin后端开发框架（二）：解析request与构建response](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gin/bind.md) | 2022.10.6 | 2022.10.6 |
+| [golang gin后端开发框架（三）：路由组和中间件](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gin/router.md) | 2022.10.6 | 2022.10.6 |
+| [golang gin后端开发框架（四）：JWT和PASETO校验中间件](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gin/token.md) | 2022.10.6 | 2022.10.6 |
 | [golang gin后端开发框架（五）：日志中间件和自定义response](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gin/middleware.md) | 2022.10.6 | 2022.10.6 |
 
 <br>
@@ -72,7 +79,9 @@
 | title | createAt | updateAt
 | :---- | :---- | :---- |
 | [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/interview.md) | 2022.10.5 | 2022.10.5 |
-| [搭建一个Harbor镜像仓库](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/harbor.md) | 2022.10.6 | 2022.10.6 |
+| [docker底层原理](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/introduce.md) | 2022.10.6 | 2022.10.7 |
+| [搭建一个Harbor镜像仓库](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/app/harbor.md) | 2022.10.6 | 2022.10.6 |
+| [docker搭建单机ceph集群](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/app/ceph.md) | 2022.10.6 | 2022.10.6 |
 
 <br>
 
@@ -135,5 +144,7 @@
 | :---- | :---- | :---- |
 | [计算机网络面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/cs_interview.md) | 2022.10.5 | 2022.10.5 |
 | [操作系统面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/os_interview.md) | 2022.10.5 | 2022.10.5 |
+| [raft协议数据结构和RPC设计](https://github.com/Pangjiping/cloud-handbook/blob/main/others/raft.md) | 2022.10.6 | 2022.10.6 |
+| [httprouter实现原理](https://github.com/Pangjiping/cloud-handbook/blob/main/others/httprouter.md) | 2022.10.7 | 2022.10.7 |
 
 <br>
