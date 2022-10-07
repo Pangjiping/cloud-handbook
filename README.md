@@ -127,6 +127,7 @@
 | title | createAt | updateAt
 | :---- | :---- | :---- |
 | [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/interview.md) | 2022.10.5 | 2022.10.5 |
+| [linux查看文件句柄信息](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/file_handle.md) | 2022.10.7 | 2022.10.7 |
 
 <br>
 
