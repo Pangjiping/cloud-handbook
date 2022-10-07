@@ -147,5 +147,6 @@
 | [操作系统面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/os_interview.md) | 2022.10.5 | 2022.10.5 |
 | [raft协议数据结构和RPC设计](https://github.com/Pangjiping/cloud-handbook/blob/main/others/raft.md) | 2022.10.6 | 2022.10.6 |
 | [httprouter实现原理](https://github.com/Pangjiping/cloud-handbook/blob/main/others/httprouter.md) | 2022.10.7 | 2022.10.7 |
+| [CAP理论](https://github.com/Pangjiping/cloud-handbook/blob/main/others/cap.md) | 2022.10.7 | 2022.10.7 |
 
 <br>
