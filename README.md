@@ -91,6 +91,7 @@
 | [docker搭建单机ceph集群](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/app/ceph.md) | 2022.10.6 | 2022.10.6 |
 | [mongoDB安装](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/app/mongodb.md) | 2022.10.10 | 2022.10.10 |
 | [一个go项目的简单docker发布流程](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/go.md) | 2022.10.10 | 2022.10.10 |
+| [创建docker私有仓库](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/private_repo.md) | 2022.10.10 | 2022.10.10 |
 
 <br>
 
