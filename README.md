@@ -31,6 +31,8 @@
 | [golang channel底层实现](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/channel.md) | 2022.10.7 | 2022.10.7 |
 | [golang GMP调度模型](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gmp.md) | 2022.10.7 | 2022.10.7 |
 | [sqlc使用说明](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/sqlc.md) | 2022.10.7 | 2022.10.7 |
+| [golang-etcd客户端](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/etcd.md) | 2022.10.10 | 2022.10.10 |
+| [基于etcd的分布式锁](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/library/etcd_lock.md) | 2022.10.10 | 2022.10.10 |
 | [golang beego后端开发框架（一）：beego安装和介绍](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/install.md) | 2022.10.5 | 2022.10.6 |
 | [golang beego后端开发框架（二）：配置、路由和控制器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/router.md) | 2022.10.6 | 2022.10.6 | 
 | [golang beego后端开发框架（三）：参数绑定和过滤器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/bind.md) | 2022.10.6 | 2022.10.6 | 
@@ -57,6 +59,7 @@
 | [minikube](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/minikube.md) | 2022.10.5 | 2022.10.5 |
 | [terraform](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/terraform.md) | 2022.10.5 | 2022.10.5 |
 | [goreman管理本地etcd集群](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/etcd/goreman.md) | 2022.10.6 | 2022.10.6 |
+| [etcd单机搭建及简单使用](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/etcd/install.md) | 2022.10.10 | 2022.10.10 |
 | [Kubernetes学习记录（一）：k8s的架构和基本概念](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/concept.md) | 2022.10.6 | 2022.10.6 |
 | [Kubernetes学习记录（二）：使用kubeadm快速部署一个单master集群](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/kubeadm.md) | 2022.10.6 | 2022.10.6 |
 | [Kuberbetes学习记录（三）：kubectl和YAML](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/handbook/kubectl.md) | 2022.10.6 | 2022.10.6 |
