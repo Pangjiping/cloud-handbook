@@ -158,5 +158,6 @@
 | [httprouter实现原理](https://github.com/Pangjiping/cloud-handbook/blob/main/others/httprouter.md) | 2022.10.7 | 2022.10.7 |
 | [CAP理论](https://github.com/Pangjiping/cloud-handbook/blob/main/others/cap.md) | 2022.10.7 | 2022.10.7 |
 | [CAS原理](https://github.com/Pangjiping/cloud-handbook/blob/main/others/cas.md) | 2022.10.10 | 2022.10.10 | 
+| [一致性哈希算法详解](https://github.com/Pangjiping/cloud-handbook/blob/main/others/hash.md) | 2022.10.10 | 2022.10.10 |
 
 <br>
