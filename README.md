@@ -96,8 +96,8 @@
 | [mongoDB安装](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/app/mongodb.md) | 2022.10.10 | 2022.10.10 |
 | [一个go项目的简单docker发布流程](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/go.md) | 2022.10.10 | 2022.10.10 |
 | [创建docker私有仓库](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/private_repo.md) | 2022.10.10 | 2022.10.10 |
-| [docker安装mysql](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/mysql.md) | 2022.10.11 | 2022.10.11 |
-| [docker安装redis](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/redis.md) | 2022.10.11 | 2022.10.11 |
+| [docker安装mysql](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/app/mysql.md) | 2022.10.11 | 2022.10.11 |
+| [docker安装redis](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/app/redis.md) | 2022.10.11 | 2022.10.11 |
 
 <br>
 
