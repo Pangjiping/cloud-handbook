@@ -144,7 +144,7 @@
 
 | title | createAt | updateAt
 | :---- | :---- | :---- |
-| [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/interview.md) | 2022.10.5 | 2022.10.5 |
+| [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/interview.md) | 2022.10.5 | 2022.10.11 |
 | [linux查看文件句柄信息](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/file_handle.md) | 2022.10.7 | 2022.10.7 |
 | [linux进程指令](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/process.md) | 2022.10.10 | 2022.10.10 |
 | [linux网络指令](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/network.md) | 2022.10.10 | 2022.10.10 |
