@@ -48,6 +48,12 @@ kubernetes中的对象就是一些持久化的实体，可以理解为是 `对�
 
 在任何时候，kubernetes都会控制集群的实时状态status与spec保持一致。
 
+在对象描述文件`.yaml`中，必须包含以下字段:
+* apiVersion: kubernetes API的版本
+* kind: kubernetes对象类型
+* metadata: 唯一标识该对象的元数据，包括`name`，UID，可选的`namespace`
+* spec: 标识对象的详细信息，不同对象的spec的格式不同，可以嵌套其他对象的字段
+
 推荐阅读: https://www.huweihuang.com/kubernetes-notes/concepts/object/understanding-kubernetes-objects.html
 
 <br>
@@ -611,5 +617,21 @@ ingress controller + ingress规则 -> services
 在创建pod的时候会创建`infra container`这个容器，启动之后再将实际创建的pod加入到该容器中。这个容器的目的就是为了维护整个Pod的网络。其他容器的创建都让其连接至该容器的网络命名空间当中。这样一来其他容器看到的网络视图就是infra container的网络视图了。一个pod当中所有的容器看到的网络设备，网卡，ip，mac地址都看到的是同一个了，因为在一个网络命名空间。这样就解决了网络共享的问题。实际上pod的ip就是infra container的ip
 
 pod通过volumn来实现共享存储
+
+<br>
+
+### **Pod内容器共享的namespace**
+---
+
+docker使用的namespace隔离:
+* PID namespace: 管理进程PID
+* NET namespace: 管理网络命令空间
+* IPC namespace: 管理进程间通信命名空间
+* MNT namespace: 管理文件系统挂载命名空间
+* UTS namesapce: Unix时间系统隔离
+
+那么在一个Pod中运行的多个容器是共享了那些命名空间呢？
+
+首先Pod内容器是共享网络和存储的，那么就可以确定其共享了`NET`和`MNT` namespace，此外，由于Pod是为了亲密进程而设计的，其中必然要保持进程之间的通信，所以`IPC`和`Unix`也是共享的。所以，**Pod内的容器共享了`IPC`,`NET`,`UTS`,`MNT`这四个namespace**
 
 <br>

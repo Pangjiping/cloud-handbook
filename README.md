@@ -59,7 +59,7 @@
 
 | title | createAt | updateAt
 | :---- | :---- | :---- |
-| [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/interview.md) | 2022.10.5 | 2022.10.5 |
+| [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/interview.md) | 2022.10.5 | 2022.10.14 |
 | [kubernetes资料汇总](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/resources.md) | 2022.10.6 | 2022.10.6 |
 | [kubectl](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/kubectl.md) | 2022.10.5 | 2022.10.5 |
 | [minikube](https://github.com/Pangjiping/cloud-handbook/blob/main/kubernetes/minikube.md) | 2022.10.5 | 2022.10.5 |
