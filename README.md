@@ -90,6 +90,7 @@
 | title | createAt | updateAt
 | :---- | :---- | :---- |
 | [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/interview.md) | 2022.10.5 | 2022.10.5 |
+| [docker菜鸟指南](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/rookie.md) | 2022.10.15 | 2022.10.15 |
 | [docker底层原理](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/introduce.md) | 2022.10.6 | 2022.10.7 |
 | [搭建一个Harbor镜像仓库](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/app/harbor.md) | 2022.10.6 | 2022.10.6 |
 | [docker搭建单机ceph集群](https://github.com/Pangjiping/cloud-handbook/blob/main/container/docker/app/ceph.md) | 2022.10.6 | 2022.10.6 |
@@ -158,6 +159,11 @@
 | :---- | :---- | :---- |
 | [面试八股文1](https://github.com/Pangjiping/cloud-handbook/blob/main/c++/interview.md) | 2022.10.5 | 2022.10.5 |
 | [面试八股文2](https://github.com/Pangjiping/cloud-handbook/blob/main/c++/interviewv2.md) | 2022.10.5 | 2022.10.5 |
+| [c++并发编程](https://github.com/Pangjiping/cloud-handbook/blob/main/c++/concurrent.md) | 2022.10.15 | 2022.10.15 |
+| [c++ primer plus笔记](https://github.com/Pangjiping/cloud-handbook/blob/main/c++/primer.md) | 2022.10.15 | 2022.10.15 |
+| [c++ 基础入门](https://github.com/Pangjiping/cloud-handbook/blob/main/c++/rookie.md) | 2022.10.15 | 2022.10.15 |
+| [c++ 核心编程](https://github.com/Pangjiping/cloud-handbook/blob/main/c++/core.md) | 2022.10.15 | 2022.10.15 |
+| [c++ 提高编程](https://github.com/Pangjiping/cloud-handbook/blob/main/c++/advanced.md) | 2022.10.15 | 2022.10.15 |
 
 <br>
 
@@ -173,5 +179,6 @@
 | [CAP理论](https://github.com/Pangjiping/cloud-handbook/blob/main/others/cap.md) | 2022.10.7 | 2022.10.7 |
 | [CAS原理](https://github.com/Pangjiping/cloud-handbook/blob/main/others/cas.md) | 2022.10.10 | 2022.10.10 | 
 | [一致性哈希算法详解](https://github.com/Pangjiping/cloud-handbook/blob/main/others/hash.md) | 2022.10.10 | 2022.10.10 |
+| [高并发短连接](https://github.com/Pangjiping/cloud-handbook/blob/main/others/time_wait.md) | 2022.10.15 | 2022.10.15 |
 
 <br>
