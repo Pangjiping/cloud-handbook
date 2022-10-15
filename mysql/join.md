@@ -1,4 +1,4 @@
-# **MYSQL内连接、外连接、左连接、右连接、全连接**
+# **MYSQL内连接、左连接、右连接**
 
 ## **1. 建表**
 
@@ -45,6 +45,29 @@ INSERT INTO `test`.`b_table` (`b_id`, `b_name`, `b_part`) VALUES (6, 'james', 't
 现在的表结构是这样子的:
 
 ```sql
+mysql> select * from a_table;
++------+--------+--------+
+| a_id | a_name | a_part |
++------+--------+--------+
+|    1 | jack   | ceo    |
+|    2 | mary   | dev    |
+|    3 | ming   | dev    |
+|    4 | tom    | hr     |
++------+--------+--------+
+4 rows in set (0.00 sec)
+```
+
+```sql
+mysql> select * from b_table;
++------+--------+--------+
+| b_id | b_name | b_part |
++------+--------+--------+
+|    2 | mary   | dev    |
+|    3 | ming   | dev    |
+|    5 | hong   | dev    |
+|    6 | james  | test   |
++------+--------+--------+
+4 rows in set (0.00 sec)
 ```
 
 <br>
