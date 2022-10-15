@@ -127,6 +127,7 @@
 | :---- | :---- | :---- |
 | [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/mysql/interview.md) | 2022.10.5 | 2022.10.5 |
 | [数据库和缓存一致性](https://github.com/Pangjiping/cloud-handbook/blob/main/mysql/consistency.md) | 2022.10.6 | 2022.10.6 |
+| [mysql连接查询](https://github.com/Pangjiping/cloud-handbook/blob/main/mysql/join.md) | 2022.10.15 | 2022.10.15 |
 
 <br>
 
