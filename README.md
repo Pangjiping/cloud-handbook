@@ -40,8 +40,8 @@
 | [golang垃圾回收和内存逃逸分析](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/gc.md) | 2022.10.10 | 2022.10.10 |
 | [golang context包到底干啥用的](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/standard_library/context.md) | 2022.10.10 | 2022.10.10 |
 | [golang beego后端开发框架（一）：beego安装和介绍](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/install.md) | 2022.10.5 | 2022.10.6 |
-| [golang beego后端开发框架（二）：配置、路由和控制器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/router.md) | 2022.10.6 | 2022.10.6 | 
-| [golang beego后端开发框架（三）：参数绑定和过滤器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/bind.md) | 2022.10.6 | 2022.10.6 | 
+| [golang beego后端开发框架（二）：配置、路由和控制器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/router.md) | 2022.10.6 | 2022.10.6 |
+| [golang beego后端开发框架（三）：参数绑定和过滤器](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/bind.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（四）：session控制](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/session.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（五）：格式输出与URL构建](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/url.md) | 2022.10.6 | 2022.10.6 |
 | [golang beego后端开发框架（六）：数据验证和错误处理](https://github.com/Pangjiping/cloud-handbook/blob/main/golang/beego/validation.md) | 2022.10.6 | 2022.10.6 |
@@ -130,7 +130,7 @@
 
 | title | createAt | updateAt
 | :---- | :---- | :---- |
-| [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/mysql/interview.md) | 2022.10.5 | 2022.10.5 |
+| [面试八股文](https://github.com/Pangjiping/cloud-handbook/blob/main/mysql/interview.md) | 2022.10.5 | 2022.10.25 |
 | [数据库和缓存一致性](https://github.com/Pangjiping/cloud-handbook/blob/main/mysql/consistency.md) | 2022.10.6 | 2022.10.6 |
 | [mysql连接查询](https://github.com/Pangjiping/cloud-handbook/blob/main/mysql/join.md) | 2022.10.15 | 2022.10.15 |
 
@@ -181,7 +181,7 @@
 | [raft协议数据结构和RPC设计](https://github.com/Pangjiping/cloud-handbook/blob/main/others/raft.md) | 2022.10.6 | 2022.10.6 |
 | [httprouter实现原理](https://github.com/Pangjiping/cloud-handbook/blob/main/others/httprouter.md) | 2022.10.7 | 2022.10.7 |
 | [CAP理论](https://github.com/Pangjiping/cloud-handbook/blob/main/others/cap.md) | 2022.10.7 | 2022.10.7 |
-| [CAS原理](https://github.com/Pangjiping/cloud-handbook/blob/main/others/cas.md) | 2022.10.10 | 2022.10.10 | 
+| [CAS原理](https://github.com/Pangjiping/cloud-handbook/blob/main/others/cas.md) | 2022.10.10 | 2022.10.10 |
 | [一致性哈希算法详解](https://github.com/Pangjiping/cloud-handbook/blob/main/others/hash.md) | 2022.10.10 | 2022.10.10 |
 | [高并发短连接](https://github.com/Pangjiping/cloud-handbook/blob/main/others/time_wait.md) | 2022.10.15 | 2022.10.15 |
 
