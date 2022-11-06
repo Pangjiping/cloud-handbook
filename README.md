@@ -154,6 +154,7 @@
 | [linux查看文件句柄信息](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/file_handle.md) | 2022.10.7 | 2022.10.7 |
 | [linux进程指令](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/process.md) | 2022.10.10 | 2022.10.10 |
 | [linux网络指令](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/network.md) | 2022.10.10 | 2022.10.10 |
+| [shell编程资料库](https://github.com/Pangjiping/cloud-handbook/blob/main/linux/shell.md) | 2022.11.1 | 2022.11.6 |
 
 <br>
 
